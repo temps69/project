@@ -1,0 +1,80 @@
+[
+  {
+    "id": 231231233,
+    "type": 1,
+    "readed": false,
+    "important": false,
+    "icon": "message",
+    "title": "Nabídka 153843",
+    "name": "Karel Novák",
+    "time": "Včera 8:00",
+    "content": "Ahoj, s tímhle klientem jsem sjednal schůzku"
+  },
+  {
+    "id": 231231235,
+    "type": 1,
+    "readed": true,
+    "important": false,
+    "icon": "calendar",
+    "title": "Smlouva 153843",
+    "name": "Ludwig Cau",
+    "time": "Dnes 12:07",
+    "content": "Ahoj, s tímhle klientem jsem sjednal schůzku"
+  },
+  {
+    "id": 231231438,
+    "type": 1,
+    "readed": false,
+    "important": false,
+    "icon": "transfer",
+    "title": "Smlouva 153843",
+    "name": "Dmitri Petrenkov",
+    "time": "10. října",
+    "content": "Ahoj, s tímhle klientem jsem sjednala schůzku na pondělí, abychom dořešili ten plán financování maringotky. Včera mi pan Novák volal s tím, že podklady má připravené."
+  },
+  {
+    "id": 231234233,
+    "type": 3,
+    "readed": true,
+    "important": true,
+    "icon": "message",
+    "title": "Příležitost 153843 - Prodej, byt 3+kk/L, 60 m2, DV, Praha - Jan Novák",
+    "name": "Lenna Svobodná",
+    "time": "25. květen",
+    "content": "Ahoj, s tímhle klientem jsem sjednala schůzku na pondělí, abychom dořešili ten plán financování maringotky. Včera mi pan Novák volal s tím, že podklady má připravené."
+  },
+  {
+    "id": 23331283,
+    "type": 1,
+    "readed": false,
+    "important": false,
+    "icon": "home",
+    "title": "Nabídka 153843 - Prodej, byt 3+kk/L, 60 m2, DV, Praha",
+    "name": "René Jetel",
+    "time": "Včera 22:00",
+    "content": "z Michal Pitucha na Marek Macura"
+  },
+  {
+    "id": 1235233,
+    "type": 3,
+    "readed": false,
+    "important": false,
+    "icon": "home",
+    "title": "Příležitost 153843",
+    "name": "Dominik Horák",
+    "time": "Dnes 12:04",
+    "content": "Změna stavu: Podání smlouvy do banky"
+  },
+  {
+    "id": 12736233,
+    "type": 1,
+    "readed": true,
+    "important": true,
+    "icon": "transfer",
+    "title": "Smlouva 153843",
+    "name": "Ignác Yetus",
+    "time": "Dnes 14:04",
+    "content": "Změna stavu: Podání smlouvy do banky"
+  }
+
+]
